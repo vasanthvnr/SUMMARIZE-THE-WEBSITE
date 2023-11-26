@@ -1,4 +1,4 @@
-# SUMMARIZE-THE-WEBSITE
+# SUMMARIZE-THE-APP
 This paper introduces a new method for optimizing user experience by condensing website details in response to a user-initiated search. 
 The technique uses advanced algorithms for content extraction, efficiently navigating through the page, identifying key information, and providing a concise summary. 
 The method saves time and ensures comprehensive understanding of the content. 
